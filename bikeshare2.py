@@ -1,4 +1,4 @@
-
+#my name : jawaher.
 import time
 import sys
 import json
@@ -53,7 +53,9 @@ def get_filters():
     print('-'*40)
     return CITIES , MONTHS , DAYS
     
-
+def printinfo():
+    print("jawaher")
+    print("ff")
 
 def load_data(city, month, day):
     """

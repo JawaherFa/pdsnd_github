@@ -53,7 +53,8 @@ def get_filters():
     print('-'*40)
     return CITIES , MONTHS , DAYS
     
-
+def printinfo():
+    print("jawaher")
 
 def load_data(city, month, day):
     """

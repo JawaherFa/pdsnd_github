@@ -55,6 +55,7 @@ def get_filters():
     
 def printinfo():
     print("jawaher")
+    print("ff")
 
 def load_data(city, month, day):
     """
